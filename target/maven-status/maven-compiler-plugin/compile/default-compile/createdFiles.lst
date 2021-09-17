@@ -1,0 +1,6 @@
+com\memorycardcommandpattern\memorycardcommandpattern\SDCard.class
+com\memorycardcommandpattern\memorycardcommandpattern\copyPasteSD.class
+com\memorycardcommandpattern\memorycardcommandpattern\MemoryCardDemo.class
+com\memorycardcommandpattern\memorycardcommandpattern\copyPasteFile.class
+com\memorycardcommandpattern\memorycardcommandpattern\MemoryCardCommand.class
+com\memorycardcommandpattern\memorycardcommandpattern\Port.class
